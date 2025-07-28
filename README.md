@@ -5,16 +5,14 @@
 - 🤔 Em busca de uma oportunidade na área de desenvolvimento back-end
 - 😄 Pronouns: ela/dela
 
-<div>
-  <a href="https://beacons.ai/jaqdc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jaqdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqdc&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+[![jaqdc GitHub stats](https://github-readme-stats.vercel.app/api?username=jaqdc&show_icons=true&theme=dracula&include_all_commits=true)](https://beacons.ai/jaqdc)
 
-<div style="display:inline_block"><br>
-<img align="center" alt="Jaque-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="center" alt="Jaque-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaqdc&layout=compact&langs_count=16&theme=dracula)](https://beacons.ai/jaqdc)
+
+### 🛠️ Tecnologias que eu uso:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 
 ##
 
