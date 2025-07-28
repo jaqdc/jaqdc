@@ -9,11 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaqdc&layout=compact&langs_count=16&theme=dracula)](https://beacons.ai/jaqdc)
 
-### 🛠️ Tecnologias que eu uso:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-
 ##
 
 <div>
